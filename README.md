@@ -23,19 +23,3 @@ Watch this YouTube Video for more information: https://www.youtube.com/watch?v=I
 5. **Machine Learning Model**: Trained a simple neural network using the collected and labeled accelerometer data to predict user actions. Achieved a 95% accuracy on the training set.
 
 6. **Integration with Super Mario**: Integrated the machine learning model with the Super Mario gameplay through Python scripting. Users can control Mario's actions by mimicking specific movements.
-
-## Getting Started
-
-### Prerequisites
-
-- Python (for data labeling and machine learning)
-- Android Studio (for building and installing the Android app)
-- Super Mario gameplay website (supermarioplay.com)
-
-## Usage
-
-1. Connect both the mobile phone and the laptop to the same internet connection.
-2. Enter the appropriate host and port in the Android app.
-3. Run the machine learning model and the final script on the computer.
-4. Start the Super Mario gameplay on supermarioplay.com.
-5. Mimic real-world movements to control Super Mario.
